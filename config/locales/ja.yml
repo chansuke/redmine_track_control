@@ -1,5 +1,7 @@
 # English strings go here for Rails i18n
 ja:
   trackcontrol_create_tracker: "トラッカー「%{value}」を作成"
+  trackcontrol_show_tracker: "%{value} トラッカーを閲覧"
   notice_no_valid_trackers_available: "使えるトラッカーが設定されていません。Redmine管理者にお問い合わせください。"
   trackcontrol_tracker_not_allowed: "は許可されていません"
+  error_no_tracker_in_project: "有効なトラッカーがありません!"
